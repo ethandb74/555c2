@@ -6,3 +6,9 @@ Below is an image of the front of my PCB.
 
 Keep in mind this photo does not contain the connectors which were added after the photot was taken.
 
+Below is my Schematic:
+
+<img width="1050" height="699" alt="Screenshot 2026-03-24 222220" src="https://github.com/user-attachments/assets/c9e02417-7372-4847-84af-3014504b7070" />
+
+My PCB: 
+<img width="1919" height="1021" alt="Screenshot 2026-03-26 213236" src="https://github.com/user-attachments/assets/a370ed04-2a09-4627-a9ed-acf3b89c1ff7" />
