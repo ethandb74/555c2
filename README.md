@@ -12,3 +12,9 @@ Below is my Schematic:
 
 My PCB: 
 <img width="1919" height="1021" alt="Screenshot 2026-03-26 213236" src="https://github.com/user-attachments/assets/a370ed04-2a09-4627-a9ed-acf3b89c1ff7" />
+
+Soldering the Board
+<img width="3024" height="4032" alt="IMG_3929" src="https://github.com/user-attachments/assets/442352e3-85e6-4ec9-9bfa-c8e9b6162826" />
+
+Product:
+<img width="4032" height="3024" alt="IMG_4060" src="https://github.com/user-attachments/assets/b15a36a9-18c3-4b53-98ab-1a44c03f8678" />
